@@ -28,7 +28,7 @@ const RESOURCES = {"assets/assets/images/lauche_icon72.png": "c70de2836b6f38269f
 "index.html": "70fa31af7a18dee20aed25166cb7249b",
 "/": "70fa31af7a18dee20aed25166cb7249b",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"flutter_bootstrap.js": "3e9c8d6c9c3481ab152fdf2de6cefdbc",
+"flutter_bootstrap.js": "8f0b2fe9fb45b16ae76de3b4c49ed68a",
 "main.dart.js": "a2cad76ea2c6bc5c62225b5c7c79b90a",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
